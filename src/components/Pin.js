@@ -7,7 +7,7 @@ import 'boxicons';
     <div>
             {/* <input type="file" name='picture' id="picture"> */}
 
-                <div className='card'>
+                <div className='box-border h-512px w-252px bg-green-100'>
                     <div className='pin_title'></div>
 
                     <div className='pin-modal'>
