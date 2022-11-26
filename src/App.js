@@ -1,10 +1,10 @@
 import './index.css';
-import PinterestLayout from './components/PinterestLayout.js';
+import Pin from './components/Pin.js';
 
 
 function App() {
   return (
-      <PinterestLayout />
+      <Pin />
   );
 }
 
